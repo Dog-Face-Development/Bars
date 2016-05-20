@@ -28,6 +28,7 @@ SCOLOR = (0,0,0)
 HCOLOR = (255, 128, 64)
 COLOR = (204, 204, 255)
 
+# Functions
 def randomrow():
     return random.randint(MINSTICKS, MAXSTICKS)
 
@@ -152,7 +153,7 @@ class NimView(object):
         for row in range(3):
             for col in range(self.model.sticks[row], MAXSTICKS):
                 self.sticks[(row, col)].color("grey")
-        self.display("Your turn! Click leftmost stick to remove.")
+        self.display("Your turn! Click the leftmost stick to remove.")
         self.screen.tracer(True)
 
     def notify_move(self, row, col, maxspalte, player):
@@ -177,7 +178,7 @@ class NimView(object):
             msg2 = "Yay, you're the winner!!!"
         else:
             msg2 = "Sorry, the computer is the winner. Try Again!"
-        self.display("To play again press space bar. To leave press ESC or click the X button.", msg2)
+        self.display("To play again press space bar. To leave click the X button.", msg2)
 
     def clear(self):
         if self.game.state == Nim.OVER:
