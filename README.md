@@ -1,6 +1,7 @@
 # Bars
 You pick a bar, the computer picks a bar and the person to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE).
+
 [Screenshot](Screenshot.jpg)
 
 ## Installation and Operation
