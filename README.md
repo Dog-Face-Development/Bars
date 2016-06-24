@@ -2,7 +2,7 @@
 You pick a bar, the computer picks a bar and the person to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE).
 
-[Screenshot](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot.JPG)
+![Screenshot 1](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot.JPG)
 
 ## Installation and Operation
 
@@ -10,11 +10,11 @@ Written in Python and run through the Python Module (IDLE).
 - Open nim.py in the Python Module (IDLE).
 - Have fun playing the game.
 
-[Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
+![Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
 
-[Playing the Game](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot%20-%20Playing.PNG)
+![Playing the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot%20-%20Playing.PNG)
 
-[The End. (I Lost!)](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot-%20End%20(Lost).PNG)
+![The End. (I Lost!)](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot-%20End%20(Lost).PNG)
 
 
 ## Bugs, Issues, and Relases
