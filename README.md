@@ -11,8 +11,11 @@ Written in Python and run through the Python Module (IDLE).
 - Have fun playing the game.
 
 [Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
+
 [Playing the Game](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot%20-%20Playing.PNG)
+
 [The End. (I Lost!)](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot-%20End%20(Lost).PNG)
+
 
 ## Bugs, Issues, and Relases
 
