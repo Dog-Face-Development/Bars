@@ -10,6 +10,10 @@ Written in Python and run through the Python Module (IDLE).
 - Open nim.py in the Python Module (IDLE).
 - Have fun playing the game.
 
+[Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
+[Playing the Game](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot%20-%20Playing.PNG)
+[The End. (I Lost!)](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot-%20End%20(Lost).PNG)
+
 ## Bugs, Issues, and Relases
 
 Please report any bugs or isssues to me on the issues page and I will try to fix them in short order.
