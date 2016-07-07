@@ -11,7 +11,7 @@ Written in Python and run through the Python Module (IDLE).
 - Open nim.py in the Python Module (IDLE).
 - Have fun playing the game.
  
-### Cereating an .exe File Through cx_Freeze (Windows)
+### Creating an .exe File Through cx_Freeze (Windows)
 - Place the applacation files in the followwing directory:
 
  C:\Users\YOUR_USERNAME_FOLDER\
@@ -23,7 +23,7 @@ python setup.py bdist_msi
 '''
  
 - Then run the Windows MSI installer that can be foundn in a dist sub-directory.
-- The installer should create a executable .exe file for you to play the game through.
+- The installer should create a executable .exe file for you to play the game through. (If you have issues feel free to contact me on the issues page.
 
 ![Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
 
