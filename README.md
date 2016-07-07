@@ -19,7 +19,7 @@ Written in Python and run through the Python Module (IDLE).
 - Run the setup.py file with cx_Freeze installed. Using the following command:
 
 '''
-C:\Users\YOUR_USERNAME>python setup.py bdist_msi
+python setup.py bdist_msi
 '''
  
 - Then run the Windows MSI installer that can be foundn in a dist sub-directory.
