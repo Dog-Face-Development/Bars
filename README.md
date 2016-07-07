@@ -13,11 +13,15 @@ Written in Python and run through the Python Module (IDLE).
  
 ### Cereating an .exe File Through cx_Freeze (Windows)
 - Place the applacation files in the followwing directory:
+
  C:\Users\YOUR_USERNAME_FOLDER\
+
 - Run the setup.py file with cx_Freeze installed. Using the following command:
+
  '''
 C:\Users\YOUR_USERNAME>python setup.py bdist_msi
  '''
+ 
 - Then run the Windows MSI installer that can be foundn in a dist sub-directory.
 - The installer should create a executable .exe file for you to play the game through.
 
