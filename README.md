@@ -18,12 +18,17 @@ Written in Python and run through the Python Module (IDLE).
 
 - Run the setup.py file with cx_Freeze installed. Using the following command:
 
-
+```
  python setup.py bdist_msi
+```
  
 - Then run the Windows MSI installer that can be foundn in a dist sub-directory.
 - The installer should create a executable .exe file for you to play the game through. (If you have issues feel free to contact me on the issues page.
-
+## Gameplay
+To start the game press the space bar on your computer when the game has loaded. 
+Then select any numeber of bar by selecting the right most bar from the group of bars that you want to select.
+Then the computer is going to select some bars.
+Keep playing until you are the computer selects the last bar. The person to select the last bar is the winner.
 ![Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
 
 ![Playing the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot%20-%20Playing.PNG)
