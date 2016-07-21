@@ -43,7 +43,7 @@ Keep playing until you are the computer selects the last bar. The person (or com
 
 
 ## Releases
-The current release is 1.4.0. The next release, version 1.5.0 is coming out soon with the following features:
+The current release is 1.4. The next release, version 1.5 is coming out soon with the following features:
 - Bug Fixes
 - Issue Fixes
 
