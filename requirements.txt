@@ -1,0 +1,6 @@
+All Requirments for Bars
+
+Python 3.4 or higher
+
+The Python 'Turtle' Library
+The Python 'Tinkter (Tk())' Library
