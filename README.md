@@ -46,6 +46,7 @@ Keep playing until you are the computer selects the last bar. The person (or com
 The current release is 1.4. The next release, version 1.5 is coming out soon with the following features:
 - Bug Fixes
 - Issue Fixes
+- Requirments.txt file addition
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
