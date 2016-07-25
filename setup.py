@@ -20,7 +20,7 @@ opts = { "include_files" : [ "Octin Vintage B Regular.otf" ] , "includes" : ["re
 
 # Setup Info
 setup( name = "Bars"
-            version = "1.0"
+            version = "1.4"
             description = "The almost imposible to beat and really addictive choose the last bar game!"
             author = "William Vandergraaf"
             options = { "build_exe" : opts }
