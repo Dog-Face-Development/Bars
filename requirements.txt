@@ -1,5 +1,0 @@
-In order to run this application you must have the following
-
-- Python 3.4 or higher
-- The Python Turtle Library
-- The Python Tinkter -Tk()- Library
