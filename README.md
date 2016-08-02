@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-You pick a bar, the computer picks a bar and the person to pick the last bar wins!
+You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE). 
 
 ![Screenshot 1](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot.JPG)
@@ -50,7 +50,6 @@ Keep playing until you are the computer selects the last bar. The person (or com
 The current release is 1.4. The next release, version 1.5 is coming out soon with the following features:
 - Bug Fixes
 - Issue Fixes
-- Requirments.txt file addition
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
