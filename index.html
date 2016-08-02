@@ -1,73 +1,86 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <meta name="description" content="Bars : The simple choose the last bar game. Written in Python.">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Bars by Dog-Face-Development</title>
+    <title>Bars</title>
   </head>
 
   <body>
-    <header>
-      <div class="inner">
-        <h1>Bars</h1>
-        <h2>The simple choose the last bar game. Written in Python.</h2>
-        <a href="https://github.com/Dog-Face-Development/Bars" class="button"><small>View project on</small> GitHub</a>
-      </div>
-    </header>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h1>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/Dog-Face-Development/Bars">View on GitHub</a>
+
+          <h1 id="project_title">Bars</h1>
+          <h2 id="project_tagline">The simple choose the last bar game. Written in Python.</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/Dog-Face-Development/Bars/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/Dog-Face-Development/Bars/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
 <a id="bars" class="anchor" href="#bars" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bars</h1>
 
-<p>You pick a bar, the computer picks a bar and the person to pick the last bar wins!
-Written in Python and run through the Python Module (IDLE).</p>
+<p><img src="https://badges.gitter.im/Dog-Face-Development/Bars.svg" alt="Join the chat at https://gitter.im/Dog-Face-Development/Bars">](<a href="https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge">https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge</a>)</p>
+
+<p>You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
+Written in Python and run through the Python Module (IDLE). </p>
 
 <p><img src="https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot.JPG" alt="Screenshot 1"></p>
+
+<p><a href="https://dog-face-development.github.io/Bars/">Visit The Website!</a></p>
 
 <h2>
 <a id="installation-and-operation" class="anchor" href="#installation-and-operation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installation and Operation</h2>
 
 <h3>
-<a id="through-the-python-module-recommended" class="anchor" href="#through-the-python-module-recommended" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Through the Python Module (Recommended)</h3>
+<a id="through-the-python-module-idle" class="anchor" href="#through-the-python-module-idle" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Through the Python Module (IDLE)</h3>
 
 <ul>
-<li>Extract the files from your download.</li>
-<li>Open nim.py in the Python Module (IDLE).</li>
-<li>Have fun playing the game.</li>
+<li>  Download the Python module if you haven’t already: <a href="https://www.python.org/downloads/release/python-352/">Download Link</a>, and install it,</li>
+<li>Extract files from your GitHub Download,</li>
+<li>  Open the nim.py file in the Python Module (IDLE),</li>
+<li>  Select Run&gt;Run Module, or press F5 in the Edit Window of IDLE,</li>
+<li>  And the app will open for you to use!</li>
 </ul>
 
 <h3>
-<a id="creating-an-exe-file-through-cx_freeze-windows" class="anchor" href="#creating-an-exe-file-through-cx_freeze-windows" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating an .exe File Through cx_Freeze (Windows)</h3>
+<a id="creating-a-executable-file-through-cx_freeze-windows-only" class="anchor" href="#creating-a-executable-file-through-cx_freeze-windows-only" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating a Executable File Through cx_Freeze (Windows Only)</h3>
 
 <ul>
-<li>
-<p>Place the applacation files in the followwing directory:</p>
-
-<p>C:\Users\YOUR_USERNAME_FOLDER\</p>
-</li>
-<li><p>Run the setup.py file with cx_Freeze installed. Using the following command:</p></li>
+<li>  Download cx_Freeze if you haven’t already: <a href="https://pypi.python.org/packages/b7/64/2e8bbd862e72253d0aee6e69a30e06af1baa11bcc96c1ffb2a4303fb6b23/cx_Freeze-4.3.4.win32-py3.4.exe#md5=bd087416c69ced533768a22e5d3414b8">Download Link</a>, and install it,</li>
+<li>  Extract the files from your GitHub download to this location on your computer: C:\Users\YOUR_USERNAME,</li>
+<li>  Open Command Prompt and type the following command:</li>
 </ul>
 
-<p>'''
-python setup.py bdist_msi
-'''</p>
+<pre><code>Python setup.py bdist_msi,
+</code></pre>
 
 <ul>
-<li>Then run the Windows MSI installer that can be foundn in a dist sub-directory.</li>
-<li>The installer should create a executable .exe file for you to play the game through. (If you have issues feel free to contact me on the issues page.</li>
+<li>  Run the .msi file that the process creates in a dist sub-directory to create an executable,</li>
+<li>  Run the executable and the app will open for you to use!</li>
 </ul>
+
+<h2>
+<a id="gameplay" class="anchor" href="#gameplay" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Gameplay</h2>
+
+<p>To start the game press the space bar on your computer when the game has loaded. 
+Then select any number of bar by selecting the right most bar from the group of bars that you want to select.
+Then the computer is going to select some bars.
+Keep playing until you are the computer selects the last bar. The person (or computer) to select the last bar is the winner.</p>
 
 <p><img src="https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG" alt="Start the Game!"></p>
 
@@ -76,30 +89,50 @@ python setup.py bdist_msi
 <p><img src="https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot-%20End%20(Lost).PNG" alt="The End. (I Lost!)"></p>
 
 <h2>
-<a id="bugs-issues-and-relases" class="anchor" href="#bugs-issues-and-relases" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bugs, Issues, and Relases</h2>
+<a id="releases" class="anchor" href="#releases" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Releases</h2>
 
-<p>Please report any bugs or isssues to me on the issues page and I will try to fix them in short order.
-Also stay tuned, we have been planning a few updates that should be comming out soon!
-If you have any new features you would like to add feel free to let us know about those on the Issues page. Your suggestions are alway appreciated.</p>
-        </section>
+<p>The current release is 1.4. The next release, version 1.5 is coming out soon with the following features:</p>
 
-        <aside id="sidebar">
-          <a href="https://github.com/Dog-Face-Development/Bars/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/Dog-Face-Development/Bars/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
+<ul>
+<li>Bug Fixes</li>
+<li>Issue Fixes</li>
+</ul>
 
-          <p class="repo-owner"><a href="https://github.com/Dog-Face-Development/Bars"></a> is maintained by <a href="https://github.com/Dog-Face-Development">Dog-Face-Development</a>.</p>
+<p>Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.</p>
 
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
+<h2>
+<a id="bugs-and-issues" class="anchor" href="#bugs-and-issues" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bugs, and Issues</h2>
+
+<p>Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases.</p>
+
+<h2>
+<a id="maintainer" class="anchor" href="#maintainer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Maintainer</h2>
+
+<h3>
+<a id="main-maintainer" class="anchor" href="#main-maintainer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Main Maintainer</h3>
+
+<ul>
+<li><a href="https://github.com/willtheorangeguy" class="user-mention">@willtheorangeguy</a></li>
+</ul>
+
+<h2>
+<a id="other-maintainers-and-helpers" class="anchor" href="#other-maintainers-and-helpers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Other Maintainers and Helpers</h2>
+
+<ul>
+<li>(Want to see your name here? Start contributing!)</li>
+</ul>
+      </section>
     </div>
 
-  
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Bars maintained by <a href="https://github.com/Dog-Face-Development">Dog-Face-Development</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
   </body>
 </html>
