@@ -13,12 +13,10 @@ Written in Python and run through the Python Module (IDLE).
 
 ## Installation and Operation
 
-
 ### Through the Python Module (IDLE)
 -	Download the Python module if you haven’t already: [Download Link](https://www.python.org/downloads/release/python-352/), and install it,
 - Extract files from your GitHub Download,
--	Open the nim.py file in the Python Module (IDLE),
--	Select Run>Run Module, or press F5 in the Edit Window of IDLE,
+-	Double click the nim.py file in File Explorer,
 -	And the app will open for you to use!
 
 
@@ -47,7 +45,7 @@ Keep playing until you are the computer selects the last bar. The person (or com
 
 
 ## Releases
-The current release is 1.4. The next release, version 1.5 is coming out soon with the following features:
+The current release is 1.5. The next release, version 1.6 is coming out soon with the following features:
 - Bug Fixes
 - Issue Fixes
 
