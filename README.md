@@ -25,7 +25,7 @@ Written in Python and run through the Python Module (IDLE).
 -	Extract the files from your GitHub download to this location on your computer: C:\Users\YOUR_USERNAME,
 -	Open Command Prompt and type the following command:
 ```
-Python setup.py bdist_msi,
+Python setup.py bdist_msi
 ```
 -	Run the .msi file that the process creates in a dist sub-directory to create an executable,
 -	Run the executable and the app will open for you to use!
@@ -48,6 +48,9 @@ Keep playing until you or the computer selects the last bar. The person (or comp
 The current release is 1.5. The next release, version 1.6 is coming out soon with the following features:
 - Bug Fixes
 - Issue Fixes
+- Easier difficulty (Could also be released in Version 2.0)
+- (MAYBE) Difficulty settings (Could also be released in Version 2.0)
+
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
@@ -56,7 +59,7 @@ Your Pull Requests for new features are always welcome! Look to see some of your
 Who likes bugs? If you’ve found any feel free to let us know on the issues page and we will make sure to fix them in short order, and release those fixes in new releases.
 
 ## Maintainer
-@willtheorangeguy
+- @willtheorangeguy - Main Code Manager and Repo Creator
 
 
 ## License
