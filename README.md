@@ -35,7 +35,7 @@ Python setup.py bdist_msi,
 To start the game press the space bar on your computer when the game has loaded. 
 Then select any numeber of bar by selecting the right most bar from the group of bars that you want to select.
 Then the computer is going to select some bars.
-Keep playing until you are the computer selects the last bar. The person (or computer) to select the last bar is the winner.
+Keep playing until you or the computer selects the last bar. The person (or computer) to select the last bar is the winner.
 
 ![Start the Game!](https://raw.githubusercontent.com/willtheorangeguy/Bars/master/Screenshot2.PNG)
 
@@ -52,21 +52,21 @@ The current release is 1.5. The next release, version 1.6 is coming out soon wit
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
 
-## Bugs, and Issues
-Who likes bugs? If you’ve found any feel free to let me know on the issues page and I will make sure to fix them in short order, and release those fixes in new releases.
+## Bugs and Issues
+Who likes bugs? If you’ve found any feel free to let us know on the issues page and we will make sure to fix them in short order, and release those fixes in new releases.
 
 ## Maintainer
 @willtheorangeguy
 
 
 ## License
-This software has been released as open source under the MIT License license. 
+This software has been released as open source under the MIT License. 
 You can view the license in the [LICENSE.md](https://github.com/Dog-Face-Development/Bars/blob/master/LICENSE.md) file in this projects repository.
 Please adhere to this license when using, distributing, and making changes to the software.
 
 
 ## A Quick Note
-The reason why (if you where wondering) none of the pull requests go through Travis CI or Circle CI before getting merged is because, first, I haven’t really figured it out yet (I’d love some help), second, the project is so small I don’t really need it (but I’d like it), third, I like testing out the builds myself, so it fits really well. An that’s why!
+The reason why (if you where wondering) none of the pull requests go through Travis CI or Circle CI before getting merged is because, first, we haven’t really figured it out yet (we’d love some help), second, the project is so small we don’t really need it (but we’d like it), third, we like testing out the builds myself, so it fits really well. And that’s why!
 
 
 ## Other Links
