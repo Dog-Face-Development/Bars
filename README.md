@@ -2,7 +2,6 @@
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE). 
 
@@ -27,7 +26,7 @@ Written in Python and run through the Python Module (IDLE).
 ```
 Python setup.py bdist_msi
 ```
--	Run the .msi file that the process creates in a dist sub-directory to create an executable,
+ -	Run the .msi file that the process creates in a dist sub-directory to create an executable,
 -	Run the executable and the app will open for you to use!
 
 
@@ -49,6 +48,7 @@ The current release is 1.5. The next release, version 1.6 is coming out soon wit
 - Bug Fixes
 - Issue Fixes
 - Easier difficulty (Could also be released in Version 2.0)
+- Touch screen interface controls (Could also be released in Version 2.0)
 - (MAYBE) Difficulty settings (Could also be released in Version 2.0)
 
 
