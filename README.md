@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/totalg)
+
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE). 
 
