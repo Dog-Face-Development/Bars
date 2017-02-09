@@ -80,4 +80,4 @@ The reason why (if you where wondering) none of the pull requests go through Tra
 
 ## Other Links
 Visit these other links to learn more about Bars:
-[The Website](http://dog-face-development.github.io/Bars/), [Latest Version Download](https://github.com/Dog-Face-Development/Bars/zipball/master), [Issues Page](https://github.com/Dog-Face-Development/Bars/issues), [Pull Request Page](https://github.com/Dog-Face-Development/Bars/pulls), [Wiki](https://github.com/Dog-Face-Development/Bars/wiki), and Documentation.
+[The Website](http://dog-face-development.github.io/Bars/), [Latest Version Download](https://github.com/Dog-Face-Development/Bars/archive/v1.5.zip), [Issues Page](https://github.com/Dog-Face-Development/Bars/issues), [Pull Request Page](https://github.com/Dog-Face-Development/Bars/pulls), [Wiki](https://github.com/Dog-Face-Development/Bars/wiki), and Documentation.
