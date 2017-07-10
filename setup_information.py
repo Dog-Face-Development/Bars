@@ -4,7 +4,7 @@ import sys
 
 setup(
     name='Bars',
-    version='1.4',
+    version='1.5',
     author = 'William Vandergraaf',
     author_email = 'willtheorangeguy@outlook.com',
     url = 'https://github.com/Dog-Face-Development/Bars',

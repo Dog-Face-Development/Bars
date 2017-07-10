@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2016 Dog Face Development Company
+Copyright (C) 2016 Dog Face Development Company
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
