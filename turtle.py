@@ -166,7 +166,7 @@ _CFG = {"width" : 0.5,               # Screen
         "examplescreen": "screen",
         # Title for this game's turtle window.
         # It has been edited for this games puposes only.
-        "title": "Bars - The simple but fun (and addicting) bar game!",
+        "title": "Bars - The simple but fun (and addicting) bar game!", 
         "using_IDLE": False
        }
 

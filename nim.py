@@ -2,13 +2,10 @@
 Play 'BARS' against the computer. The player
 who takes the last stick is the winner.
 
-Implements the model-view-controller
-design pattern.
+This game is extremly addicive and
+is almost imposssible to beat!
 """
-# This game is extremly addicive and
-# is almost imposssible to beat!
-
-#Imposrt Statements
+#Import Statements
 import turtle
 import random
 import time
