@@ -1,5 +1,6 @@
 Fixes issue # . 
-*Reason for fix.*
+
+*Reason for fix. (Replace this text.)*
 
 Changes proposed in this PR:
 
