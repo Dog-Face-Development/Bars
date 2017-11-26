@@ -67,7 +67,7 @@ Who likes bugs? If you’ve found any feel free to let us know on the issues pag
 When contributing to the Bars project make sure that you follow the guidelines found in the [CONTRIBUTING.md](https://github.com/Dog-Face-Development/Bars/blob/master/CONTRIBUTING.md) file.
 
 When contributing a issue or a pull request please use the following templates:
-- PR: [github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md)
+- PR: [github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md)
 - Issue: [github.com/Dog-Face-Development/Bars/blob/master/ISSUE_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/ISSUE_TEMPLATE.md)
 
 ## License

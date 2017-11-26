@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Bars! Before you contribute pleas
 **All code is written in Python 3.5-3.6.**
 
 Pull Request and Issue Templates can be found here: 
-- PR: [github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md)
+- PR: [github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md)
 - Issue: [github.com/Dog-Face-Development/Bars/blob/master/ISSUE_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/ISSUE_TEMPLATE.md) 
 
 ## Types of Contributions
@@ -18,7 +18,7 @@ You can contribute to Bars in the following ways:
 To make the contribution process a success please follow these simple steps to get started:
 1. Fork this repo
 2. Create a new branch for each correction in your fork (make sure they are logically grouped)
-3. Submit a pull request to the master branch with your change. PR template can be found [here](https://github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md).
+3. Submit a pull request to the master branch with your change. PR template can be found [here](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md).
 4. The DFD Team will decide on a course of action for your contribution.
 
 ## Submission Process (issue)
@@ -26,7 +26,7 @@ To make the issue process a success please follow these simple steps to get star
 1. Go to the [issues page](https://github.com/Dog-Face-Development/Bars/issues) for this repo.
 2. Check to see if your issue has already been posted.
 3. Click the green *New Issue* button.
-4. Create issue following the issue template that can be found [here](https://github.com/Dog-Face-Development/Bars/blob/master/PR_TEMPLATE.md).
+4. Create issue following the issue template that can be found [here](https://github.com/Dog-Face-Development/Bars/blob/master/ISSUE_TEMPLATE.md).
 5. The DFD Team will decide on a course of action for your contribution.
 
 ## Tests for Contributing
