@@ -45,13 +45,10 @@ Keep playing until you or the computer selects the last bar. The person (or comp
 
 ## Releases
 The current release is 1.5. The next release, version 1.6 is coming out soon with the following features:
-- Bug Fixes
-- Issue Fixes
-- Updated documentation
-- Easier difficulty (Could also be released in Version 2.0)
-- Touch screen interface controls (Could also be released in Version 2.0)
-- (MAYBE) Difficulty settings (Could also be released in Version 2.0)
-
+- Bug and Issue fixes
+- Documentation update
+- Creation of new website
+- Travis-CI integration
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
@@ -60,7 +57,7 @@ Your Pull Requests for new features are always welcome! Look to see some of your
 Who likes bugs? If you’ve found any feel free to let us know on the issues page and we will make sure to fix them in short order, and release those fixes in new releases. You can also create a pull request to fix the issue yourself!
 
 ## Maintainer & Contributors
-### Maintainers
+### Maintainers:
 [@willtheorangeguy](https://github.com/willtheorangeguy/)
 
 ## Contributing
