@@ -1,5 +1,6 @@
 # Bars
 
+[![Build Status](https://travis-ci.org/Dog-Face-Development/Bars.svg?branch=master)](https://travis-ci.org/Dog-Face-Development/Bars)
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/total.svg)
 ![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)
