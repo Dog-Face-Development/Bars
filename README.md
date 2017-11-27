@@ -59,8 +59,9 @@ Your Pull Requests for new features are always welcome! Look to see some of your
 ## Bugs and Issues
 Who likes bugs? If you’ve found any feel free to let us know on the issues page and we will make sure to fix them in short order, and release those fixes in new releases. You can also create a pull request to fix the issue yourself!
 
-## Maintainer
-[@willtheorangeguy](https://github.com/willtheorangeguy/) - Main Code Manager and Repo Creator
+## Maintainer & Contributors
+### Maintainers
+[@willtheorangeguy](https://github.com/willtheorangeguy/)
 
 ## Contributing
 When contributing to the Bars project make sure that you follow the guidelines found in the [CONTRIBUTING.md](https://github.com/Dog-Face-Development/Bars/blob/master/CONTRIBUTING.md) file.
