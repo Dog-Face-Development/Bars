@@ -5,7 +5,6 @@
 ![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)
 ![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Bars.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Bars.svg)
-![Contributors](https://img.shields.io/github/contributors/Dog-Face-Developement/Bars.svg)
 ![License](https://img.shields.io/github/license/Dog-Face-Development/Bars.svg)
 
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
@@ -65,6 +64,8 @@ Who likes bugs? If you’ve found any feel free to let us know on the issues pag
 
 ## Contributing
 When contributing to the Bars project make sure that you follow the guidelines found in the [CONTRIBUTING.md](https://github.com/Dog-Face-Development/Bars/blob/master/CONTRIBUTING.md) file.
+
+You can also see where we are going with the project by looking in the [PLANNING.md](https://github.com/Dog-Face-Development/Bars/blob/master/PLANNING.md) file.
 
 When contributing a issue or a pull request please use the following templates:
 - PR: [github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md)
