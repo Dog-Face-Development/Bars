@@ -1,11 +1,11 @@
 # Bars
 
+[![Build Status](https://travis-ci.org/Dog-Face-Development/Bars.svg?branch=master)](https://travis-ci.org/Dog-Face-Development/Bars)
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/total.svg)
 ![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)
 ![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Bars.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Bars.svg)
-![Contributors](https://img.shields.io/github/contributors/Dog-Face-Developement/Bars.svg)
 ![License](https://img.shields.io/github/license/Dog-Face-Development/Bars.svg)
 
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
@@ -46,13 +46,10 @@ Keep playing until you or the computer selects the last bar. The person (or comp
 
 ## Releases
 The current release is 1.5. The next release, version 1.6 is coming out soon with the following features:
-- Bug Fixes
-- Issue Fixes
-- Updated documentation
-- Easier difficulty (Could also be released in Version 2.0)
-- Touch screen interface controls (Could also be released in Version 2.0)
-- (MAYBE) Difficulty settings (Could also be released in Version 2.0)
-
+- Bug and Issue fixes
+- Documentation update
+- Creation of new website
+- Travis-CI integration
 
 Your Pull Requests for new features are always welcome! Look to see some of your suggestions in upcoming updates.
 
@@ -60,11 +57,14 @@ Your Pull Requests for new features are always welcome! Look to see some of your
 ## Bugs and Issues
 Who likes bugs? If you’ve found any feel free to let us know on the issues page and we will make sure to fix them in short order, and release those fixes in new releases. You can also create a pull request to fix the issue yourself!
 
-## Maintainer
-[@willtheorangeguy](https://github.com/willtheorangeguy/) - Main Code Manager and Repo Creator
+## Maintainer & Contributors
+### Maintainers:
+[@willtheorangeguy](https://github.com/willtheorangeguy/)
 
 ## Contributing
 When contributing to the Bars project make sure that you follow the guidelines found in the [CONTRIBUTING.md](https://github.com/Dog-Face-Development/Bars/blob/master/CONTRIBUTING.md) file.
+
+You can also see where we are going with the project by looking in the [PLANNING.md](https://github.com/Dog-Face-Development/Bars/blob/master/PLANNING.md) file.
 
 When contributing a issue or a pull request please use the following templates:
 - PR: [github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md)

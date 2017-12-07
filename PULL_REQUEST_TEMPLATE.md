@@ -1,12 +1,12 @@
-Fixes issue # .
+Fixes issue # . 
+
+*Reason for fix. (Replace this text.)*
 
 Changes proposed in this PR:
 
 -
 -
 -
-
-*Reason for PR. (replace this text)*
 
 
 ---
