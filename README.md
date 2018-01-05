@@ -1,12 +1,13 @@
 # Bars
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/total.svg)
-![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)
-![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Bars.svg)
-![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Bars.svg)
-![Contributors](https://img.shields.io/github/contributors/Dog-Face-Developement/Bars.svg)
-![License](https://img.shields.io/github/license/Dog-Face-Development/Bars.svg)
+[![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/total.svg)](https://github.com/Dog-Face-Development/Bars/releases/tag/v1.5)
+[![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)](https://github.com/Dog-Face-Development/Bars/releases/tag/v1.5)
+[![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Bars.svg)](https://github.com/Dog-Face-Development/Bars/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Bars.svg)](https://github.com/Dog-Face-Development/Bars/pulls)
+[![Contributors](https://img.shields.io/github/contributors/Dog-Face-Developement/Bars.svg)](https://github.com/Dog-Face-Development/Bars/graphs/contributors)
+[![License](https://img.shields.io/github/license/Dog-Face-Development/Bars.svg)](https://github.com/Dog-Face-Development/Bars/blob/master/LICENSE.md)
+[![BCH compliance](https://bettercodehub.com/edge/badge/Dog-Face-Development/Bars?branch=master)](https://bettercodehub.com/Dog-Face-Development/Bars)
 
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
 Written in Python and run through the Python Module (IDLE). 
