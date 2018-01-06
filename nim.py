@@ -4,6 +4,8 @@ who takes the last stick is the winner.
 
 This game is extremly addicive and
 is almost imposssible to beat!
+
+Copyright (C) 2016 - 2018 Dog Face Development Company
 """
 #Import Statements
 import turtle

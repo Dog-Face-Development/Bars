@@ -1,4 +1,6 @@
 """"
+Copyright (C) 2016 - 2018 Dog Face Development Company
+
 This is the installer files for BARS.
 Run these files with cx_Freeze to create an executable .exe deployment file.
 """'

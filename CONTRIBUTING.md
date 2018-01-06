@@ -4,6 +4,8 @@ Thank you for your interest in contributing to Bars! Before you contribute pleas
 
 **All code is written in Python 3.5-3.6.**
 
+**All code is copyright (C) 2016 - 2018 Dog Face Development Company**
+
 Pull Request and Issue Templates can be found here:
 
 - PR: [github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md](https://github.com/Dog-Face-Development/Bars/blob/master/PULL_REQUEST_TEMPLATE.md)
