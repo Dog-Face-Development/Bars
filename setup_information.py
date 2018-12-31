@@ -1,4 +1,4 @@
-# Copyright (C) 2016 - 2018 Dog Face Development Company
+# Copyright (C) 2016 - 2019 Dog Face Development Co.
 
 import os
 import setup
