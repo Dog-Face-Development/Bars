@@ -2,10 +2,10 @@
 
 [![Join the chat at https://gitter.im/Dog-Face-Development/Bars](https://badges.gitter.im/Dog-Face-Development/Bars.svg)](https://gitter.im/Dog-Face-Development/Bars?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Total Downloads](https://img.shields.io/github/downloads/Dog-Face-Development/Bars/total.svg)
-![Release Version](https://img.shields.io/github/release/Dog-Face-Developemnt/Bars.svg)
+![Release Version](https://img.shields.io/github/release/Dog-Face-Development/Bars.svg)
 ![Issues](https://img.shields.io/github/issues/Dog-Face-Development/Bars.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Dog-Face-Development/Bars.svg)
-![Contributors](https://img.shields.io/github/contributors/Dog-Face-Developement/Bars.svg)
+![Contributors](https://img.shields.io/github/contributors/Dog-Face-Development/Bars.svg)
 ![License](https://img.shields.io/github/license/Dog-Face-Development/Bars.svg)
 
 You pick a bar, the computer picks a bar and the person (or computer) to pick the last bar wins!
