@@ -1,9 +1,9 @@
-""""
-Copyright (C) 2016 - 2019 Dog Face Development Co.
+"""
+Copyright (C) 2016 - 2022 Dog Face Development Co.
 
 This is the installer files for BARS.
 Run these files with cx_Freeze to create an executable .exe deployment file.
-"""'
+"""
 # Import
 import steup_information
 import os
@@ -23,7 +23,7 @@ opts = { "include_files" : [ "Octin Vintage B Regular.otf" ] , "includes" : ["re
 # Setup Info
 setup( name = "Bars"
             version = "1.5"
-            description = "The almost imposible to beat and really addictive choose the last bar game!"
-            author = "William Vandergraaf"
+            description = "The almost impossible to beat and really addictive choose the last bar game!"
+            author = "Dog Face Development Co."
             options = { "build_exe" : opts }
             executables = [ Executable( "nim.py" , base = base ) ] )
